@@ -1,0 +1,22 @@
+def extract_data(category, motor, soup):
+    car = soup.find('div', {'class': 'floatLeft currentKfzDetails'})['title'].encode('ascii', 'ignore')
+
+    article_numbers = []
+    for article_number in soup.findAll('span', {'id': re.compile('^selectableArtnr_')}):
+        article_numbers.append(article_number['id'].encode('ascii', 'ignore'))
+
+    article_names = []
+    for article_name in soup.find_all('a', {'class': 'anchor underline'}):
+        article_names.append(article_name.contents[0].strip().encode('ascii', 'ignore'))
+
+    producers = []
+    for producer in soup.find_all('div', {'class': 'art-logo max640'}):
+        producers.append(producer.findChildren()[0]['alt'].encode('ascii', 'ignore'))
+
+    prices = []
+    for price in soup.find_all('span', {'class': 'preis'}):
+        prices.append(price.contents[0].strip().encode('ascii', 'ignore'))
+
+    results = []
+    for i, elem in enumerate(prices):
+        results.append([category, motor, car, article_numbers[i], article_names[i], producers[i], prices[i]])

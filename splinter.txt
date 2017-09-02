@@ -1,0 +1,13 @@
+def buy(browser):
+    browser.find_by_xpath('//*[@id="content"]/div[1]/div/a[4]').click()
+    time.sleep(3)
+    browser.find_by_xpath('//*[@id="buy-button"]/span').click()
+    time.sleep(3)
+    browser.find_by_xpath('//*[@id="orderSize"]').first.fill('10')
+    time.sleep(3)
+    browser.find_by_xpath('//*[@id="tab1"]/div/div[2]/input[39]').click()
+    time.sleep(3)
+    browser.find_by_xpath('//*[@id="PIN"]').first.fill('9999')
+    time.sleep(3)
+    browser.find_by_xpath('//*[@id="row-pin"]/div[2]/input').click()
+    time.sleep(99999)

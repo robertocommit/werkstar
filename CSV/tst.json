@@ -1,0 +1,6141 @@
+{
+  u
+  'initialRegistrationDate': {
+    u
+    'date': u
+    '2016-12-01 00:00:00.000000',
+    u
+    'timezone_type': 3,
+    u
+    'timezone': u
+    'Europe/Berlin'
+  },
+  u
+  'success': True,
+  u
+  'brand': {
+    u
+    'status': u
+    'active',
+    u
+    'updated': u
+    '2015-05-01 00:00:00',
+    u
+    'ident': u
+    'BMW',
+    u
+    'created': u
+    '2015-06-29 15:47:50',
+    u
+    'label': u
+    'BMW',
+    u
+    'priority': 10,
+    u
+    'WMI': [
+      u
+      'WBA',
+      u
+      'WBS',
+      u
+      'WBY',
+      u
+      '4US'
+    ],
+    u
+    'seoLinkLabel': u
+    'BMW',
+    u
+    'address': None,
+    u
+    'id': 13
+  },
+  u
+  'vehicles': [
+    {
+      u
+      'TSN': u
+      'CAM',
+      u
+      'engine': {
+        u
+        'cylinder': 4,
+        u
+        'ident': u
+        '130KW / 176PS',
+        u
+        'capacity': 1598,
+        u
+        'power': 130,
+        u
+        'created': u
+        '2015-07-13 10:03:26',
+        u
+        'sparkPlugs': None,
+        u
+        'emissionStandard': u
+        'EU6',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'DPF': False,
+        u
+        'gears': 6,
+        u
+        'DSG': False,
+        u
+        'gearBox': u
+        'manual',
+        u
+        'identifier': None,
+        u
+        'id': 10132342,
+        u
+        'emissions': None
+      },
+      u
+      'VDS': None,
+      u
+      'id': 10132342,
+      u
+      'HSN': 5,
+      u
+      'label': u
+      '120i',
+      u
+      'type': u
+      'PKW',
+      u
+      'status': u
+      'active',
+      u
+      'updated': u
+      '2017-06-08 13:43:32',
+      u
+      'productionEnd': u
+      '2016-05-31',
+      u
+      'keys': [
+        {
+          u
+          'TSN': u
+          'CAM',
+          u
+          'approval': None,
+          u
+          'HSN': 5,
+          u
+          'id': 19640,
+          u
+          'stock': None
+        }
+      ],
+      u
+      'brand': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'ident': u
+        'BMW',
+        u
+        'created': u
+        '2015-06-29 15:47:50',
+        u
+        'label': u
+        'BMW',
+        u
+        'priority': 10,
+        u
+        'WMI': [
+          u
+          'WBA',
+          u
+          'WBS',
+          u
+          'WBY',
+          u
+          '4US'
+        ],
+        u
+        'seoLinkLabel': u
+        'BMW',
+        u
+        'address': None,
+        u
+        'id': 13
+      },
+      u
+      'variant': u
+      'Sport Line',
+      u
+      'seoLinkLabel': u
+      '120i',
+      u
+      'liquids': {
+        u
+        'fillingQuantityPowerSteeringOil': 0,
+        u
+        'updated': u
+        '2017-06-08 13:43:32',
+        u
+        'engineOilLongLife': {
+          u
+          'ident': u
+          '5W-30LL',
+          u
+          'label': u
+          '5W-30LL',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'engine',
+          u
+          'identifier': u
+          '5W-30LL',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 38
+        },
+        u
+        'fillingQuantityGearBox': 1.3,
+        u
+        'created': u
+        '2015-07-13 10:03:26',
+        u
+        'clutchOil': None,
+        u
+        'powerSteeringOil': None,
+        u
+        'gearBoxOil': {
+          u
+          'ident': u
+          '75W-80',
+          u
+          'label': u
+          '75W-80',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'gearBox',
+          u
+          'identifier': u
+          '75W-80',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 46
+        },
+        u
+        'fillingQuantityCoolantLiquid': 7.2,
+        u
+        'brakeOil': {
+          u
+          'ident': u
+          'DOT 4',
+          u
+          'label': u
+          'DOT 4',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'brake',
+          u
+          'identifier': u
+          'DOT4',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 36
+        },
+        u
+        'fillingQuantityEngineOil': 4.2,
+        u
+        'hydraulicOil': None,
+        u
+        'fillingQuantityClutchOil': 0,
+        u
+        'fuel': {
+          u
+          'ident': u
+          'Benzin',
+          u
+          'label': u
+          'Benzin',
+          u
+          'priority': 0,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'benzin',
+          u
+          'type': u
+          'fuel',
+          u
+          'id': 1
+        },
+        u
+        'fillingQuantityFuel': 0,
+        u
+        'coolandLiquid': {
+          u
+          'ident': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'label': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'priority': 10,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'G48/G11',
+          u
+          'type': u
+          'coolant',
+          u
+          'id': 71
+        },
+        u
+        'fillingQuantityHydraulicOil': 0,
+        u
+        'fillingQuantityBrakeOil': 1,
+        u
+        'engineOil': None
+      },
+      u
+      'services': [],
+      u
+      'segment': u
+      'segment-1',
+      u
+      'ident': u
+      '120i (130KW / 176PS) (Sport Line)',
+      u
+      'created': u
+      '2017-06-08 13:43:31',
+      u
+      'conditions': None,
+      u
+      'notes': None,
+      u
+      'model': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2016-07-16 20:53:26',
+        u
+        'ident': u
+        '1er (F20/F21)',
+        u
+        'productionEnd': None,
+        u
+        'created': u
+        '2015-07-10 22:52:30',
+        u
+        'productionStart': u
+        '2011-06-01',
+        u
+        'brand': {
+          u
+          'status': u
+          'active',
+          u
+          'updated': u
+          '2015-05-01 00:00:00',
+          u
+          'ident': u
+          'BMW',
+          u
+          'created': u
+          '2015-06-29 15:47:50',
+          u
+          'label': u
+          'BMW',
+          u
+          'priority': 10,
+          u
+          'WMI': [
+            u
+            'WBA',
+            u
+            'WBS',
+            u
+            'WBY',
+            u
+            '4US'
+          ],
+          u
+          'seoLinkLabel': u
+          'BMW',
+          u
+          'address': None,
+          u
+          'id': 13
+        },
+        u
+        'label': u
+        '1er',
+        u
+        'seoLinkLabel': u
+        '1er',
+        u
+        'additionalLabel': u
+        'F20/F21',
+        u
+        'type': u
+        'PKW',
+        u
+        'id': 2459
+      },
+      u
+      'productionStart': u
+      '2015-03-01'
+    },
+    {
+      u
+      'TSN': u
+      'BLP',
+      u
+      'engine': {
+        u
+        'cylinder': 4,
+        u
+        'ident': u
+        '160KW / 217PS',
+        u
+        'capacity': 1997,
+        u
+        'power': 160,
+        u
+        'created': u
+        '2015-07-13 10:04:09',
+        u
+        'sparkPlugs': None,
+        u
+        'emissionStandard': u
+        'EU6',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'DPF': False,
+        u
+        'gears': 6,
+        u
+        'DSG': False,
+        u
+        'gearBox': u
+        'manual',
+        u
+        'identifier': None,
+        u
+        'id': 10133155,
+        u
+        'emissions': None
+      },
+      u
+      'VDS': None,
+      u
+      'id': 10133155,
+      u
+      'HSN': 5,
+      u
+      'label': u
+      '125i',
+      u
+      'type': u
+      'PKW',
+      u
+      'status': u
+      'active',
+      u
+      'updated': u
+      '2017-06-08 13:44:07',
+      u
+      'productionEnd': u
+      '2016-05-31',
+      u
+      'keys': [
+        {
+          u
+          'TSN': u
+          'BLP',
+          u
+          'approval': None,
+          u
+          'HSN': 5,
+          u
+          'id': 1269,
+          u
+          'stock': None
+        }
+      ],
+      u
+      'brand': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'ident': u
+        'BMW',
+        u
+        'created': u
+        '2015-06-29 15:47:50',
+        u
+        'label': u
+        'BMW',
+        u
+        'priority': 10,
+        u
+        'WMI': [
+          u
+          'WBA',
+          u
+          'WBS',
+          u
+          'WBY',
+          u
+          '4US'
+        ],
+        u
+        'seoLinkLabel': u
+        'BMW',
+        u
+        'address': None,
+        u
+        'id': 13
+      },
+      u
+      'variant': None,
+      u
+      'seoLinkLabel': u
+      '125i',
+      u
+      'liquids': {
+        u
+        'fillingQuantityPowerSteeringOil': 0,
+        u
+        'updated': u
+        '2017-06-08 13:44:07',
+        u
+        'engineOilLongLife': {
+          u
+          'ident': u
+          '5W-30LL',
+          u
+          'label': u
+          '5W-30LL',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'engine',
+          u
+          'identifier': u
+          '5W-30LL',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 38
+        },
+        u
+        'fillingQuantityGearBox': 1.3,
+        u
+        'created': u
+        '2015-07-13 10:04:09',
+        u
+        'clutchOil': None,
+        u
+        'powerSteeringOil': None,
+        u
+        'gearBoxOil': {
+          u
+          'ident': u
+          '75W-80',
+          u
+          'label': u
+          '75W-80',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'gearBox',
+          u
+          'identifier': u
+          '75W-80',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 46
+        },
+        u
+        'fillingQuantityCoolantLiquid': 7.6,
+        u
+        'brakeOil': {
+          u
+          'ident': u
+          'DOT 4',
+          u
+          'label': u
+          'DOT 4',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'brake',
+          u
+          'identifier': u
+          'DOT4',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 36
+        },
+        u
+        'fillingQuantityEngineOil': 5,
+        u
+        'hydraulicOil': None,
+        u
+        'fillingQuantityClutchOil': 0,
+        u
+        'fuel': {
+          u
+          'ident': u
+          'Benzin',
+          u
+          'label': u
+          'Benzin',
+          u
+          'priority': 0,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'benzin',
+          u
+          'type': u
+          'fuel',
+          u
+          'id': 1
+        },
+        u
+        'fillingQuantityFuel': 0,
+        u
+        'coolandLiquid': {
+          u
+          'ident': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'label': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'priority': 10,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'G48/G11',
+          u
+          'type': u
+          'coolant',
+          u
+          'id': 71
+        },
+        u
+        'fillingQuantityHydraulicOil': 0,
+        u
+        'fillingQuantityBrakeOil': 1,
+        u
+        'engineOil': None
+      },
+      u
+      'services': [],
+      u
+      'segment': u
+      'segment-1',
+      u
+      'ident': u
+      '125i (160KW / 217PS)',
+      u
+      'created': u
+      '2017-06-08 13:44:07',
+      u
+      'conditions': None,
+      u
+      'notes': None,
+      u
+      'model': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2016-07-16 20:53:26',
+        u
+        'ident': u
+        '1er (F20/F21)',
+        u
+        'productionEnd': None,
+        u
+        'created': u
+        '2015-07-10 22:52:30',
+        u
+        'productionStart': u
+        '2011-06-01',
+        u
+        'brand': {
+          u
+          'status': u
+          'active',
+          u
+          'updated': u
+          '2015-05-01 00:00:00',
+          u
+          'ident': u
+          'BMW',
+          u
+          'created': u
+          '2015-06-29 15:47:50',
+          u
+          'label': u
+          'BMW',
+          u
+          'priority': 10,
+          u
+          'WMI': [
+            u
+            'WBA',
+            u
+            'WBS',
+            u
+            'WBY',
+            u
+            '4US'
+          ],
+          u
+          'seoLinkLabel': u
+          'BMW',
+          u
+          'address': None,
+          u
+          'id': 13
+        },
+        u
+        'label': u
+        '1er',
+        u
+        'seoLinkLabel': u
+        '1er',
+        u
+        'additionalLabel': u
+        'F20/F21',
+        u
+        'type': u
+        'PKW',
+        u
+        'id': 2459
+      },
+      u
+      'productionStart': u
+      '2015-03-01'
+    },
+    {
+      u
+      'TSN': u
+      'BLX',
+      u
+      'engine': {
+        u
+        'cylinder': 4,
+        u
+        'ident': u
+        '160KW / 217PS',
+        u
+        'capacity': 1997,
+        u
+        'power': 160,
+        u
+        'created': u
+        '2015-07-13 10:03:29',
+        u
+        'sparkPlugs': None,
+        u
+        'emissionStandard': u
+        'EU6',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'DPF': False,
+        u
+        'gears': 6,
+        u
+        'DSG': False,
+        u
+        'gearBox': u
+        'manual',
+        u
+        'identifier': None,
+        u
+        'id': 10132521,
+        u
+        'emissions': None
+      },
+      u
+      'VDS': None,
+      u
+      'id': 10132521,
+      u
+      'HSN': 5,
+      u
+      'label': u
+      '125i',
+      u
+      'type': u
+      'PKW',
+      u
+      'status': u
+      'active',
+      u
+      'updated': u
+      '2017-06-08 13:44:09',
+      u
+      'productionEnd': u
+      '2016-05-31',
+      u
+      'keys': [
+        {
+          u
+          'TSN': u
+          'BLX',
+          u
+          'approval': None,
+          u
+          'HSN': 5,
+          u
+          'id': 1454,
+          u
+          'stock': None
+        }
+      ],
+      u
+      'brand': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'ident': u
+        'BMW',
+        u
+        'created': u
+        '2015-06-29 15:47:50',
+        u
+        'label': u
+        'BMW',
+        u
+        'priority': 10,
+        u
+        'WMI': [
+          u
+          'WBA',
+          u
+          'WBS',
+          u
+          'WBY',
+          u
+          '4US'
+        ],
+        u
+        'seoLinkLabel': u
+        'BMW',
+        u
+        'address': None,
+        u
+        'id': 13
+      },
+      u
+      'variant': u
+      'Advantage',
+      u
+      'seoLinkLabel': u
+      '125i',
+      u
+      'liquids': {
+        u
+        'fillingQuantityPowerSteeringOil': 0,
+        u
+        'updated': u
+        '2017-06-08 13:44:09',
+        u
+        'engineOilLongLife': {
+          u
+          'ident': u
+          '5W-30LL',
+          u
+          'label': u
+          '5W-30LL',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'engine',
+          u
+          'identifier': u
+          '5W-30LL',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 38
+        },
+        u
+        'fillingQuantityGearBox': 1.3,
+        u
+        'created': u
+        '2015-07-13 10:03:29',
+        u
+        'clutchOil': None,
+        u
+        'powerSteeringOil': None,
+        u
+        'gearBoxOil': {
+          u
+          'ident': u
+          '75W-80',
+          u
+          'label': u
+          '75W-80',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'gearBox',
+          u
+          'identifier': u
+          '75W-80',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 46
+        },
+        u
+        'fillingQuantityCoolantLiquid': 7.6,
+        u
+        'brakeOil': {
+          u
+          'ident': u
+          'DOT 4',
+          u
+          'label': u
+          'DOT 4',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'brake',
+          u
+          'identifier': u
+          'DOT4',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 36
+        },
+        u
+        'fillingQuantityEngineOil': 5,
+        u
+        'hydraulicOil': None,
+        u
+        'fillingQuantityClutchOil': 0,
+        u
+        'fuel': {
+          u
+          'ident': u
+          'Benzin',
+          u
+          'label': u
+          'Benzin',
+          u
+          'priority': 0,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'benzin',
+          u
+          'type': u
+          'fuel',
+          u
+          'id': 1
+        },
+        u
+        'fillingQuantityFuel': 0,
+        u
+        'coolandLiquid': {
+          u
+          'ident': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'label': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'priority': 10,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'G48/G11',
+          u
+          'type': u
+          'coolant',
+          u
+          'id': 71
+        },
+        u
+        'fillingQuantityHydraulicOil': 0,
+        u
+        'fillingQuantityBrakeOil': 1,
+        u
+        'engineOil': None
+      },
+      u
+      'services': [],
+      u
+      'segment': u
+      'segment-1',
+      u
+      'ident': u
+      '125i (160KW / 217PS) (Advantage)',
+      u
+      'created': u
+      '2017-06-08 13:44:08',
+      u
+      'conditions': None,
+      u
+      'notes': None,
+      u
+      'model': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2016-07-16 20:53:26',
+        u
+        'ident': u
+        '1er (F20/F21)',
+        u
+        'productionEnd': None,
+        u
+        'created': u
+        '2015-07-10 22:52:30',
+        u
+        'productionStart': u
+        '2011-06-01',
+        u
+        'brand': {
+          u
+          'status': u
+          'active',
+          u
+          'updated': u
+          '2015-05-01 00:00:00',
+          u
+          'ident': u
+          'BMW',
+          u
+          'created': u
+          '2015-06-29 15:47:50',
+          u
+          'label': u
+          'BMW',
+          u
+          'priority': 10,
+          u
+          'WMI': [
+            u
+            'WBA',
+            u
+            'WBS',
+            u
+            'WBY',
+            u
+            '4US'
+          ],
+          u
+          'seoLinkLabel': u
+          'BMW',
+          u
+          'address': None,
+          u
+          'id': 13
+        },
+        u
+        'label': u
+        '1er',
+        u
+        'seoLinkLabel': u
+        '1er',
+        u
+        'additionalLabel': u
+        'F20/F21',
+        u
+        'type': u
+        'PKW',
+        u
+        'id': 2459
+      },
+      u
+      'productionStart': u
+      '2015-03-01'
+    },
+    {
+      u
+      'TSN': u
+      'BLX',
+      u
+      'engine': {
+        u
+        'cylinder': 4,
+        u
+        'ident': u
+        '160KW / 217PS',
+        u
+        'capacity': 1997,
+        u
+        'power': 160,
+        u
+        'created': u
+        '2015-07-13 10:03:32',
+        u
+        'sparkPlugs': None,
+        u
+        'emissionStandard': u
+        'EU6',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'DPF': False,
+        u
+        'gears': 6,
+        u
+        'DSG': False,
+        u
+        'gearBox': u
+        'manual',
+        u
+        'identifier': None,
+        u
+        'id': 10132551,
+        u
+        'emissions': None
+      },
+      u
+      'VDS': None,
+      u
+      'id': 10132551,
+      u
+      'HSN': 5,
+      u
+      'label': u
+      '125i',
+      u
+      'type': u
+      'PKW',
+      u
+      'status': u
+      'active',
+      u
+      'updated': u
+      '2017-06-08 13:44:10',
+      u
+      'productionEnd': u
+      '2016-05-31',
+      u
+      'keys': [
+        {
+          u
+          'TSN': u
+          'BLX',
+          u
+          'approval': None,
+          u
+          'HSN': 5,
+          u
+          'id': 1454,
+          u
+          'stock': None
+        }
+      ],
+      u
+      'brand': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'ident': u
+        'BMW',
+        u
+        'created': u
+        '2015-06-29 15:47:50',
+        u
+        'label': u
+        'BMW',
+        u
+        'priority': 10,
+        u
+        'WMI': [
+          u
+          'WBA',
+          u
+          'WBS',
+          u
+          'WBY',
+          u
+          '4US'
+        ],
+        u
+        'seoLinkLabel': u
+        'BMW',
+        u
+        'address': None,
+        u
+        'id': 13
+      },
+      u
+      'variant': u
+      'M Sport',
+      u
+      'seoLinkLabel': u
+      '125i',
+      u
+      'liquids': {
+        u
+        'fillingQuantityPowerSteeringOil': 0,
+        u
+        'updated': u
+        '2017-06-08 13:44:10',
+        u
+        'engineOilLongLife': {
+          u
+          'ident': u
+          '5W-30LL',
+          u
+          'label': u
+          '5W-30LL',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'engine',
+          u
+          'identifier': u
+          '5W-30LL',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 38
+        },
+        u
+        'fillingQuantityGearBox': 1.3,
+        u
+        'created': u
+        '2015-07-13 10:03:32',
+        u
+        'clutchOil': None,
+        u
+        'powerSteeringOil': None,
+        u
+        'gearBoxOil': {
+          u
+          'ident': u
+          '75W-80',
+          u
+          'label': u
+          '75W-80',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'gearBox',
+          u
+          'identifier': u
+          '75W-80',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 46
+        },
+        u
+        'fillingQuantityCoolantLiquid': 7.6,
+        u
+        'brakeOil': {
+          u
+          'ident': u
+          'DOT 4',
+          u
+          'label': u
+          'DOT 4',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'brake',
+          u
+          'identifier': u
+          'DOT4',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 36
+        },
+        u
+        'fillingQuantityEngineOil': 5,
+        u
+        'hydraulicOil': None,
+        u
+        'fillingQuantityClutchOil': 0,
+        u
+        'fuel': {
+          u
+          'ident': u
+          'Benzin',
+          u
+          'label': u
+          'Benzin',
+          u
+          'priority': 0,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'benzin',
+          u
+          'type': u
+          'fuel',
+          u
+          'id': 1
+        },
+        u
+        'fillingQuantityFuel': 0,
+        u
+        'coolandLiquid': {
+          u
+          'ident': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'label': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'priority': 10,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'G48/G11',
+          u
+          'type': u
+          'coolant',
+          u
+          'id': 71
+        },
+        u
+        'fillingQuantityHydraulicOil': 0,
+        u
+        'fillingQuantityBrakeOil': 1,
+        u
+        'engineOil': None
+      },
+      u
+      'services': [],
+      u
+      'segment': u
+      'segment-1',
+      u
+      'ident': u
+      '125i (160KW / 217PS) (M Sport)',
+      u
+      'created': u
+      '2017-06-08 13:44:09',
+      u
+      'conditions': None,
+      u
+      'notes': None,
+      u
+      'model': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2016-07-16 20:53:26',
+        u
+        'ident': u
+        '1er (F20/F21)',
+        u
+        'productionEnd': None,
+        u
+        'created': u
+        '2015-07-10 22:52:30',
+        u
+        'productionStart': u
+        '2011-06-01',
+        u
+        'brand': {
+          u
+          'status': u
+          'active',
+          u
+          'updated': u
+          '2015-05-01 00:00:00',
+          u
+          'ident': u
+          'BMW',
+          u
+          'created': u
+          '2015-06-29 15:47:50',
+          u
+          'label': u
+          'BMW',
+          u
+          'priority': 10,
+          u
+          'WMI': [
+            u
+            'WBA',
+            u
+            'WBS',
+            u
+            'WBY',
+            u
+            '4US'
+          ],
+          u
+          'seoLinkLabel': u
+          'BMW',
+          u
+          'address': None,
+          u
+          'id': 13
+        },
+        u
+        'label': u
+        '1er',
+        u
+        'seoLinkLabel': u
+        '1er',
+        u
+        'additionalLabel': u
+        'F20/F21',
+        u
+        'type': u
+        'PKW',
+        u
+        'id': 2459
+      },
+      u
+      'productionStart': u
+      '2015-03-01'
+    },
+    {
+      u
+      'TSN': u
+      'BLP',
+      u
+      'engine': {
+        u
+        'cylinder': 4,
+        u
+        'ident': u
+        '160KW / 217PS',
+        u
+        'capacity': 1997,
+        u
+        'power': 160,
+        u
+        'created': u
+        '2015-07-13 10:04:12',
+        u
+        'sparkPlugs': None,
+        u
+        'emissionStandard': u
+        'EU6',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'DPF': False,
+        u
+        'gears': 6,
+        u
+        'DSG': False,
+        u
+        'gearBox': u
+        'manual',
+        u
+        'identifier': None,
+        u
+        'id': 10132771,
+        u
+        'emissions': None
+      },
+      u
+      'VDS': None,
+      u
+      'id': 10132771,
+      u
+      'HSN': 5,
+      u
+      'label': u
+      '125i',
+      u
+      'type': u
+      'PKW',
+      u
+      'status': u
+      'active',
+      u
+      'updated': u
+      '2017-06-08 13:44:11',
+      u
+      'productionEnd': u
+      '2016-05-31',
+      u
+      'keys': [
+        {
+          u
+          'TSN': u
+          'BLP',
+          u
+          'approval': None,
+          u
+          'HSN': 5,
+          u
+          'id': 1269,
+          u
+          'stock': None
+        }
+      ],
+      u
+      'brand': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'ident': u
+        'BMW',
+        u
+        'created': u
+        '2015-06-29 15:47:50',
+        u
+        'label': u
+        'BMW',
+        u
+        'priority': 10,
+        u
+        'WMI': [
+          u
+          'WBA',
+          u
+          'WBS',
+          u
+          'WBY',
+          u
+          '4US'
+        ],
+        u
+        'seoLinkLabel': u
+        'BMW',
+        u
+        'address': None,
+        u
+        'id': 13
+      },
+      u
+      'variant': u
+      'Sport Line',
+      u
+      'seoLinkLabel': u
+      '125i',
+      u
+      'liquids': {
+        u
+        'fillingQuantityPowerSteeringOil': 0,
+        u
+        'updated': u
+        '2017-06-08 13:44:11',
+        u
+        'engineOilLongLife': {
+          u
+          'ident': u
+          '5W-30LL',
+          u
+          'label': u
+          '5W-30LL',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'engine',
+          u
+          'identifier': u
+          '5W-30LL',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 38
+        },
+        u
+        'fillingQuantityGearBox': 1.3,
+        u
+        'created': u
+        '2015-07-13 10:04:12',
+        u
+        'clutchOil': None,
+        u
+        'powerSteeringOil': None,
+        u
+        'gearBoxOil': {
+          u
+          'ident': u
+          '75W-80',
+          u
+          'label': u
+          '75W-80',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'gearBox',
+          u
+          'identifier': u
+          '75W-80',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 46
+        },
+        u
+        'fillingQuantityCoolantLiquid': 7.6,
+        u
+        'brakeOil': {
+          u
+          'ident': u
+          'DOT 4',
+          u
+          'label': u
+          'DOT 4',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'brake',
+          u
+          'identifier': u
+          'DOT4',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 36
+        },
+        u
+        'fillingQuantityEngineOil': 5,
+        u
+        'hydraulicOil': None,
+        u
+        'fillingQuantityClutchOil': 0,
+        u
+        'fuel': {
+          u
+          'ident': u
+          'Benzin',
+          u
+          'label': u
+          'Benzin',
+          u
+          'priority': 0,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'benzin',
+          u
+          'type': u
+          'fuel',
+          u
+          'id': 1
+        },
+        u
+        'fillingQuantityFuel': 0,
+        u
+        'coolandLiquid': {
+          u
+          'ident': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'label': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'priority': 10,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'G48/G11',
+          u
+          'type': u
+          'coolant',
+          u
+          'id': 71
+        },
+        u
+        'fillingQuantityHydraulicOil': 0,
+        u
+        'fillingQuantityBrakeOil': 1,
+        u
+        'engineOil': None
+      },
+      u
+      'services': [],
+      u
+      'segment': u
+      'segment-1',
+      u
+      'ident': u
+      '125i (160KW / 217PS) (Sport Line)',
+      u
+      'created': u
+      '2017-06-08 13:44:11',
+      u
+      'conditions': None,
+      u
+      'notes': None,
+      u
+      'model': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2016-07-16 20:53:26',
+        u
+        'ident': u
+        '1er (F20/F21)',
+        u
+        'productionEnd': None,
+        u
+        'created': u
+        '2015-07-10 22:52:30',
+        u
+        'productionStart': u
+        '2011-06-01',
+        u
+        'brand': {
+          u
+          'status': u
+          'active',
+          u
+          'updated': u
+          '2015-05-01 00:00:00',
+          u
+          'ident': u
+          'BMW',
+          u
+          'created': u
+          '2015-06-29 15:47:50',
+          u
+          'label': u
+          'BMW',
+          u
+          'priority': 10,
+          u
+          'WMI': [
+            u
+            'WBA',
+            u
+            'WBS',
+            u
+            'WBY',
+            u
+            '4US'
+          ],
+          u
+          'seoLinkLabel': u
+          'BMW',
+          u
+          'address': None,
+          u
+          'id': 13
+        },
+        u
+        'label': u
+        '1er',
+        u
+        'seoLinkLabel': u
+        '1er',
+        u
+        'additionalLabel': u
+        'F20/F21',
+        u
+        'type': u
+        'PKW',
+        u
+        'id': 2459
+      },
+      u
+      'productionStart': u
+      '2015-03-01'
+    },
+    {
+      u
+      'TSN': u
+      'BLP',
+      u
+      'engine': {
+        u
+        'cylinder': 4,
+        u
+        'ident': u
+        '160KW / 217PS',
+        u
+        'capacity': 1997,
+        u
+        'power': 160,
+        u
+        'created': u
+        '2015-07-13 10:04:13',
+        u
+        'sparkPlugs': None,
+        u
+        'emissionStandard': u
+        'EU6',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'DPF': False,
+        u
+        'gears': 6,
+        u
+        'DSG': False,
+        u
+        'gearBox': u
+        'manual',
+        u
+        'identifier': None,
+        u
+        'id': 10132801,
+        u
+        'emissions': None
+      },
+      u
+      'VDS': None,
+      u
+      'id': 10132801,
+      u
+      'HSN': 5,
+      u
+      'label': u
+      '125i',
+      u
+      'type': u
+      'PKW',
+      u
+      'status': u
+      'active',
+      u
+      'updated': u
+      '2017-06-08 13:44:13',
+      u
+      'productionEnd': u
+      '2016-05-31',
+      u
+      'keys': [
+        {
+          u
+          'TSN': u
+          'BLP',
+          u
+          'approval': None,
+          u
+          'HSN': 5,
+          u
+          'id': 1269,
+          u
+          'stock': None
+        }
+      ],
+      u
+      'brand': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'ident': u
+        'BMW',
+        u
+        'created': u
+        '2015-06-29 15:47:50',
+        u
+        'label': u
+        'BMW',
+        u
+        'priority': 10,
+        u
+        'WMI': [
+          u
+          'WBA',
+          u
+          'WBS',
+          u
+          'WBY',
+          u
+          '4US'
+        ],
+        u
+        'seoLinkLabel': u
+        'BMW',
+        u
+        'address': None,
+        u
+        'id': 13
+      },
+      u
+      'variant': u
+      'Urban Line',
+      u
+      'seoLinkLabel': u
+      '125i',
+      u
+      'liquids': {
+        u
+        'fillingQuantityPowerSteeringOil': 0,
+        u
+        'updated': u
+        '2017-06-08 13:44:13',
+        u
+        'engineOilLongLife': {
+          u
+          'ident': u
+          '5W-30LL',
+          u
+          'label': u
+          '5W-30LL',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'engine',
+          u
+          'identifier': u
+          '5W-30LL',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 38
+        },
+        u
+        'fillingQuantityGearBox': 1.3,
+        u
+        'created': u
+        '2015-07-13 10:04:13',
+        u
+        'clutchOil': None,
+        u
+        'powerSteeringOil': None,
+        u
+        'gearBoxOil': {
+          u
+          'ident': u
+          '75W-80',
+          u
+          'label': u
+          '75W-80',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'gearBox',
+          u
+          'identifier': u
+          '75W-80',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 46
+        },
+        u
+        'fillingQuantityCoolantLiquid': 7.6,
+        u
+        'brakeOil': {
+          u
+          'ident': u
+          'DOT 4',
+          u
+          'label': u
+          'DOT 4',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'brake',
+          u
+          'identifier': u
+          'DOT4',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 36
+        },
+        u
+        'fillingQuantityEngineOil': 5,
+        u
+        'hydraulicOil': None,
+        u
+        'fillingQuantityClutchOil': 0,
+        u
+        'fuel': {
+          u
+          'ident': u
+          'Benzin',
+          u
+          'label': u
+          'Benzin',
+          u
+          'priority': 0,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'benzin',
+          u
+          'type': u
+          'fuel',
+          u
+          'id': 1
+        },
+        u
+        'fillingQuantityFuel': 0,
+        u
+        'coolandLiquid': {
+          u
+          'ident': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'label': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'priority': 10,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'G48/G11',
+          u
+          'type': u
+          'coolant',
+          u
+          'id': 71
+        },
+        u
+        'fillingQuantityHydraulicOil': 0,
+        u
+        'fillingQuantityBrakeOil': 1,
+        u
+        'engineOil': None
+      },
+      u
+      'services': [],
+      u
+      'segment': u
+      'segment-1',
+      u
+      'ident': u
+      '125i (160KW / 217PS) (Urban Line)',
+      u
+      'created': u
+      '2017-06-08 13:44:13',
+      u
+      'conditions': None,
+      u
+      'notes': None,
+      u
+      'model': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2016-07-16 20:53:26',
+        u
+        'ident': u
+        '1er (F20/F21)',
+        u
+        'productionEnd': None,
+        u
+        'created': u
+        '2015-07-10 22:52:30',
+        u
+        'productionStart': u
+        '2011-06-01',
+        u
+        'brand': {
+          u
+          'status': u
+          'active',
+          u
+          'updated': u
+          '2015-05-01 00:00:00',
+          u
+          'ident': u
+          'BMW',
+          u
+          'created': u
+          '2015-06-29 15:47:50',
+          u
+          'label': u
+          'BMW',
+          u
+          'priority': 10,
+          u
+          'WMI': [
+            u
+            'WBA',
+            u
+            'WBS',
+            u
+            'WBY',
+            u
+            '4US'
+          ],
+          u
+          'seoLinkLabel': u
+          'BMW',
+          u
+          'address': None,
+          u
+          'id': 13
+        },
+        u
+        'label': u
+        '1er',
+        u
+        'seoLinkLabel': u
+        '1er',
+        u
+        'additionalLabel': u
+        'F20/F21',
+        u
+        'type': u
+        'PKW',
+        u
+        'id': 2459
+      },
+      u
+      'productionStart': u
+      '2015-03-01'
+    },
+    {
+      u
+      'TSN': u
+      'BLP',
+      u
+      'engine': {
+        u
+        'cylinder': 4,
+        u
+        'ident': u
+        '160KW / 217PS',
+        u
+        'capacity': 1997,
+        u
+        'power': 160,
+        u
+        'created': u
+        '2015-07-13 10:04:09',
+        u
+        'sparkPlugs': None,
+        u
+        'emissionStandard': u
+        'EU6',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'DPF': False,
+        u
+        'gears': 8,
+        u
+        'DSG': False,
+        u
+        'gearBox': u
+        'automatic',
+        u
+        'identifier': None,
+        u
+        'id': 10133165,
+        u
+        'emissions': None
+      },
+      u
+      'VDS': None,
+      u
+      'id': 10133165,
+      u
+      'HSN': 5,
+      u
+      'label': u
+      '125i Aut.',
+      u
+      'type': u
+      'PKW',
+      u
+      'status': u
+      'active',
+      u
+      'updated': u
+      '2017-06-08 13:44:16',
+      u
+      'productionEnd': u
+      '2016-05-31',
+      u
+      'keys': [
+        {
+          u
+          'TSN': u
+          'BLP',
+          u
+          'approval': None,
+          u
+          'HSN': 5,
+          u
+          'id': 1269,
+          u
+          'stock': None
+        }
+      ],
+      u
+      'brand': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'ident': u
+        'BMW',
+        u
+        'created': u
+        '2015-06-29 15:47:50',
+        u
+        'label': u
+        'BMW',
+        u
+        'priority': 10,
+        u
+        'WMI': [
+          u
+          'WBA',
+          u
+          'WBS',
+          u
+          'WBY',
+          u
+          '4US'
+        ],
+        u
+        'seoLinkLabel': u
+        'BMW',
+        u
+        'address': None,
+        u
+        'id': 13
+      },
+      u
+      'variant': None,
+      u
+      'seoLinkLabel': u
+      '125i-Aut',
+      u
+      'liquids': {
+        u
+        'fillingQuantityPowerSteeringOil': 0,
+        u
+        'updated': u
+        '2017-06-08 13:44:16',
+        u
+        'engineOilLongLife': {
+          u
+          'ident': u
+          '5W-30LL',
+          u
+          'label': u
+          '5W-30LL',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'engine',
+          u
+          'identifier': u
+          '5W-30LL',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 38
+        },
+        u
+        'fillingQuantityGearBox': 1.3,
+        u
+        'created': u
+        '2015-07-13 10:04:09',
+        u
+        'clutchOil': None,
+        u
+        'powerSteeringOil': None,
+        u
+        'gearBoxOil': {
+          u
+          'ident': u
+          '75W-80',
+          u
+          'label': u
+          '75W-80',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'gearBox',
+          u
+          'identifier': u
+          '75W-80',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 46
+        },
+        u
+        'fillingQuantityCoolantLiquid': 7.6,
+        u
+        'brakeOil': {
+          u
+          'ident': u
+          'DOT 4',
+          u
+          'label': u
+          'DOT 4',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'brake',
+          u
+          'identifier': u
+          'DOT4',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 36
+        },
+        u
+        'fillingQuantityEngineOil': 5,
+        u
+        'hydraulicOil': None,
+        u
+        'fillingQuantityClutchOil': 0,
+        u
+        'fuel': {
+          u
+          'ident': u
+          'Benzin',
+          u
+          'label': u
+          'Benzin',
+          u
+          'priority': 0,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'benzin',
+          u
+          'type': u
+          'fuel',
+          u
+          'id': 1
+        },
+        u
+        'fillingQuantityFuel': 0,
+        u
+        'coolandLiquid': {
+          u
+          'ident': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'label': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'priority': 10,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'G48/G11',
+          u
+          'type': u
+          'coolant',
+          u
+          'id': 71
+        },
+        u
+        'fillingQuantityHydraulicOil': 0,
+        u
+        'fillingQuantityBrakeOil': 1,
+        u
+        'engineOil': None
+      },
+      u
+      'services': [],
+      u
+      'segment': u
+      'segment-1',
+      u
+      'ident': u
+      '125i Aut. (160KW / 217PS)',
+      u
+      'created': u
+      '2017-06-08 13:44:15',
+      u
+      'conditions': None,
+      u
+      'notes': None,
+      u
+      'model': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2016-07-16 20:53:26',
+        u
+        'ident': u
+        '1er (F20/F21)',
+        u
+        'productionEnd': None,
+        u
+        'created': u
+        '2015-07-10 22:52:30',
+        u
+        'productionStart': u
+        '2011-06-01',
+        u
+        'brand': {
+          u
+          'status': u
+          'active',
+          u
+          'updated': u
+          '2015-05-01 00:00:00',
+          u
+          'ident': u
+          'BMW',
+          u
+          'created': u
+          '2015-06-29 15:47:50',
+          u
+          'label': u
+          'BMW',
+          u
+          'priority': 10,
+          u
+          'WMI': [
+            u
+            'WBA',
+            u
+            'WBS',
+            u
+            'WBY',
+            u
+            '4US'
+          ],
+          u
+          'seoLinkLabel': u
+          'BMW',
+          u
+          'address': None,
+          u
+          'id': 13
+        },
+        u
+        'label': u
+        '1er',
+        u
+        'seoLinkLabel': u
+        '1er',
+        u
+        'additionalLabel': u
+        'F20/F21',
+        u
+        'type': u
+        'PKW',
+        u
+        'id': 2459
+      },
+      u
+      'productionStart': u
+      '2015-03-01'
+    },
+    {
+      u
+      'TSN': u
+      'BLP',
+      u
+      'engine': {
+        u
+        'cylinder': 4,
+        u
+        'ident': u
+        '160KW / 217PS',
+        u
+        'capacity': 1997,
+        u
+        'power': 160,
+        u
+        'created': u
+        '2015-07-13 10:04:11',
+        u
+        'sparkPlugs': None,
+        u
+        'emissionStandard': u
+        'EU6',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'DPF': False,
+        u
+        'gears': 8,
+        u
+        'DSG': False,
+        u
+        'gearBox': u
+        'automatic',
+        u
+        'identifier': None,
+        u
+        'id': 10132741,
+        u
+        'emissions': None
+      },
+      u
+      'VDS': None,
+      u
+      'id': 10132741,
+      u
+      'HSN': 5,
+      u
+      'label': u
+      '125i Aut.',
+      u
+      'type': u
+      'PKW',
+      u
+      'status': u
+      'active',
+      u
+      'updated': u
+      '2017-06-08 13:44:18',
+      u
+      'productionEnd': u
+      '2016-05-31',
+      u
+      'keys': [
+        {
+          u
+          'TSN': u
+          'BLP',
+          u
+          'approval': None,
+          u
+          'HSN': 5,
+          u
+          'id': 1269,
+          u
+          'stock': None
+        }
+      ],
+      u
+      'brand': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'ident': u
+        'BMW',
+        u
+        'created': u
+        '2015-06-29 15:47:50',
+        u
+        'label': u
+        'BMW',
+        u
+        'priority': 10,
+        u
+        'WMI': [
+          u
+          'WBA',
+          u
+          'WBS',
+          u
+          'WBY',
+          u
+          '4US'
+        ],
+        u
+        'seoLinkLabel': u
+        'BMW',
+        u
+        'address': None,
+        u
+        'id': 13
+      },
+      u
+      'variant': u
+      'Advantage',
+      u
+      'seoLinkLabel': u
+      '125i-Aut',
+      u
+      'liquids': {
+        u
+        'fillingQuantityPowerSteeringOil': 0,
+        u
+        'updated': u
+        '2017-06-08 13:44:18',
+        u
+        'engineOilLongLife': {
+          u
+          'ident': u
+          '5W-30LL',
+          u
+          'label': u
+          '5W-30LL',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'engine',
+          u
+          'identifier': u
+          '5W-30LL',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 38
+        },
+        u
+        'fillingQuantityGearBox': 1.3,
+        u
+        'created': u
+        '2015-07-13 10:04:11',
+        u
+        'clutchOil': None,
+        u
+        'powerSteeringOil': None,
+        u
+        'gearBoxOil': {
+          u
+          'ident': u
+          '75W-80',
+          u
+          'label': u
+          '75W-80',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'gearBox',
+          u
+          'identifier': u
+          '75W-80',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 46
+        },
+        u
+        'fillingQuantityCoolantLiquid': 7.6,
+        u
+        'brakeOil': {
+          u
+          'ident': u
+          'DOT 4',
+          u
+          'label': u
+          'DOT 4',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'brake',
+          u
+          'identifier': u
+          'DOT4',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 36
+        },
+        u
+        'fillingQuantityEngineOil': 5,
+        u
+        'hydraulicOil': None,
+        u
+        'fillingQuantityClutchOil': 0,
+        u
+        'fuel': {
+          u
+          'ident': u
+          'Benzin',
+          u
+          'label': u
+          'Benzin',
+          u
+          'priority': 0,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'benzin',
+          u
+          'type': u
+          'fuel',
+          u
+          'id': 1
+        },
+        u
+        'fillingQuantityFuel': 0,
+        u
+        'coolandLiquid': {
+          u
+          'ident': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'label': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'priority': 10,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'G48/G11',
+          u
+          'type': u
+          'coolant',
+          u
+          'id': 71
+        },
+        u
+        'fillingQuantityHydraulicOil': 0,
+        u
+        'fillingQuantityBrakeOil': 1,
+        u
+        'engineOil': None
+      },
+      u
+      'services': [],
+      u
+      'segment': u
+      'segment-1',
+      u
+      'ident': u
+      '125i Aut. (160KW / 217PS) (Advantage)',
+      u
+      'created': u
+      '2017-06-08 13:44:17',
+      u
+      'conditions': None,
+      u
+      'notes': None,
+      u
+      'model': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2016-07-16 20:53:26',
+        u
+        'ident': u
+        '1er (F20/F21)',
+        u
+        'productionEnd': None,
+        u
+        'created': u
+        '2015-07-10 22:52:30',
+        u
+        'productionStart': u
+        '2011-06-01',
+        u
+        'brand': {
+          u
+          'status': u
+          'active',
+          u
+          'updated': u
+          '2015-05-01 00:00:00',
+          u
+          'ident': u
+          'BMW',
+          u
+          'created': u
+          '2015-06-29 15:47:50',
+          u
+          'label': u
+          'BMW',
+          u
+          'priority': 10,
+          u
+          'WMI': [
+            u
+            'WBA',
+            u
+            'WBS',
+            u
+            'WBY',
+            u
+            '4US'
+          ],
+          u
+          'seoLinkLabel': u
+          'BMW',
+          u
+          'address': None,
+          u
+          'id': 13
+        },
+        u
+        'label': u
+        '1er',
+        u
+        'seoLinkLabel': u
+        '1er',
+        u
+        'additionalLabel': u
+        'F20/F21',
+        u
+        'type': u
+        'PKW',
+        u
+        'id': 2459
+      },
+      u
+      'productionStart': u
+      '2015-03-01'
+    },
+    {
+      u
+      'TSN': u
+      'BLX',
+      u
+      'engine': {
+        u
+        'cylinder': 4,
+        u
+        'ident': u
+        '160KW / 217PS',
+        u
+        'capacity': 1997,
+        u
+        'power': 160,
+        u
+        'created': u
+        '2015-07-13 10:03:32',
+        u
+        'sparkPlugs': None,
+        u
+        'emissionStandard': u
+        'EU6',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'DPF': False,
+        u
+        'gears': 8,
+        u
+        'DSG': False,
+        u
+        'gearBox': u
+        'automatic',
+        u
+        'identifier': None,
+        u
+        'id': 10132561,
+        u
+        'emissions': None
+      },
+      u
+      'VDS': None,
+      u
+      'id': 10132561,
+      u
+      'HSN': 5,
+      u
+      'label': u
+      '125i Aut.',
+      u
+      'type': u
+      'PKW',
+      u
+      'status': u
+      'active',
+      u
+      'updated': u
+      '2017-06-08 13:44:18',
+      u
+      'productionEnd': u
+      '2016-05-31',
+      u
+      'keys': [
+        {
+          u
+          'TSN': u
+          'BLX',
+          u
+          'approval': None,
+          u
+          'HSN': 5,
+          u
+          'id': 1454,
+          u
+          'stock': None
+        }
+      ],
+      u
+      'brand': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'ident': u
+        'BMW',
+        u
+        'created': u
+        '2015-06-29 15:47:50',
+        u
+        'label': u
+        'BMW',
+        u
+        'priority': 10,
+        u
+        'WMI': [
+          u
+          'WBA',
+          u
+          'WBS',
+          u
+          'WBY',
+          u
+          '4US'
+        ],
+        u
+        'seoLinkLabel': u
+        'BMW',
+        u
+        'address': None,
+        u
+        'id': 13
+      },
+      u
+      'variant': u
+      'M Sport',
+      u
+      'seoLinkLabel': u
+      '125i-Aut',
+      u
+      'liquids': {
+        u
+        'fillingQuantityPowerSteeringOil': 0,
+        u
+        'updated': u
+        '2017-06-08 13:44:18',
+        u
+        'engineOilLongLife': {
+          u
+          'ident': u
+          '5W-30LL',
+          u
+          'label': u
+          '5W-30LL',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'engine',
+          u
+          'identifier': u
+          '5W-30LL',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 38
+        },
+        u
+        'fillingQuantityGearBox': 1.3,
+        u
+        'created': u
+        '2015-07-13 10:03:32',
+        u
+        'clutchOil': None,
+        u
+        'powerSteeringOil': None,
+        u
+        'gearBoxOil': {
+          u
+          'ident': u
+          '75W-80',
+          u
+          'label': u
+          '75W-80',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'gearBox',
+          u
+          'identifier': u
+          '75W-80',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 46
+        },
+        u
+        'fillingQuantityCoolantLiquid': 7.6,
+        u
+        'brakeOil': {
+          u
+          'ident': u
+          'DOT 4',
+          u
+          'label': u
+          'DOT 4',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'brake',
+          u
+          'identifier': u
+          'DOT4',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 36
+        },
+        u
+        'fillingQuantityEngineOil': 5,
+        u
+        'hydraulicOil': None,
+        u
+        'fillingQuantityClutchOil': 0,
+        u
+        'fuel': {
+          u
+          'ident': u
+          'Benzin',
+          u
+          'label': u
+          'Benzin',
+          u
+          'priority': 0,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'benzin',
+          u
+          'type': u
+          'fuel',
+          u
+          'id': 1
+        },
+        u
+        'fillingQuantityFuel': 0,
+        u
+        'coolandLiquid': {
+          u
+          'ident': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'label': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'priority': 10,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'G48/G11',
+          u
+          'type': u
+          'coolant',
+          u
+          'id': 71
+        },
+        u
+        'fillingQuantityHydraulicOil': 0,
+        u
+        'fillingQuantityBrakeOil': 1,
+        u
+        'engineOil': None
+      },
+      u
+      'services': [],
+      u
+      'segment': u
+      'segment-1',
+      u
+      'ident': u
+      '125i Aut. (160KW / 217PS) (M Sport)',
+      u
+      'created': u
+      '2017-06-08 13:44:18',
+      u
+      'conditions': None,
+      u
+      'notes': None,
+      u
+      'model': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2016-07-16 20:53:26',
+        u
+        'ident': u
+        '1er (F20/F21)',
+        u
+        'productionEnd': None,
+        u
+        'created': u
+        '2015-07-10 22:52:30',
+        u
+        'productionStart': u
+        '2011-06-01',
+        u
+        'brand': {
+          u
+          'status': u
+          'active',
+          u
+          'updated': u
+          '2015-05-01 00:00:00',
+          u
+          'ident': u
+          'BMW',
+          u
+          'created': u
+          '2015-06-29 15:47:50',
+          u
+          'label': u
+          'BMW',
+          u
+          'priority': 10,
+          u
+          'WMI': [
+            u
+            'WBA',
+            u
+            'WBS',
+            u
+            'WBY',
+            u
+            '4US'
+          ],
+          u
+          'seoLinkLabel': u
+          'BMW',
+          u
+          'address': None,
+          u
+          'id': 13
+        },
+        u
+        'label': u
+        '1er',
+        u
+        'seoLinkLabel': u
+        '1er',
+        u
+        'additionalLabel': u
+        'F20/F21',
+        u
+        'type': u
+        'PKW',
+        u
+        'id': 2459
+      },
+      u
+      'productionStart': u
+      '2015-03-01'
+    },
+    {
+      u
+      'TSN': u
+      'BLX',
+      u
+      'engine': {
+        u
+        'cylinder': 4,
+        u
+        'ident': u
+        '160KW / 217PS',
+        u
+        'capacity': 1997,
+        u
+        'power': 160,
+        u
+        'created': u
+        '2015-07-13 10:03:31',
+        u
+        'sparkPlugs': None,
+        u
+        'emissionStandard': u
+        'EU6',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'DPF': False,
+        u
+        'gears': 8,
+        u
+        'DSG': False,
+        u
+        'gearBox': u
+        'automatic',
+        u
+        'identifier': None,
+        u
+        'id': 10132482,
+        u
+        'emissions': None
+      },
+      u
+      'VDS': None,
+      u
+      'id': 10132482,
+      u
+      'HSN': 5,
+      u
+      'label': u
+      '125i Aut.',
+      u
+      'type': u
+      'PKW',
+      u
+      'status': u
+      'active',
+      u
+      'updated': u
+      '2017-06-08 13:44:21',
+      u
+      'productionEnd': u
+      '2016-05-31',
+      u
+      'keys': [
+        {
+          u
+          'TSN': u
+          'BLX',
+          u
+          'approval': None,
+          u
+          'HSN': 5,
+          u
+          'id': 1454,
+          u
+          'stock': None
+        }
+      ],
+      u
+      'brand': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'ident': u
+        'BMW',
+        u
+        'created': u
+        '2015-06-29 15:47:50',
+        u
+        'label': u
+        'BMW',
+        u
+        'priority': 10,
+        u
+        'WMI': [
+          u
+          'WBA',
+          u
+          'WBS',
+          u
+          'WBY',
+          u
+          '4US'
+        ],
+        u
+        'seoLinkLabel': u
+        'BMW',
+        u
+        'address': None,
+        u
+        'id': 13
+      },
+      u
+      'variant': u
+      'Sport Line',
+      u
+      'seoLinkLabel': u
+      '125i-Aut',
+      u
+      'liquids': {
+        u
+        'fillingQuantityPowerSteeringOil': 0,
+        u
+        'updated': u
+        '2017-06-08 13:44:21',
+        u
+        'engineOilLongLife': {
+          u
+          'ident': u
+          '5W-30LL',
+          u
+          'label': u
+          '5W-30LL',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'engine',
+          u
+          'identifier': u
+          '5W-30LL',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 38
+        },
+        u
+        'fillingQuantityGearBox': 1.3,
+        u
+        'created': u
+        '2015-07-13 10:03:31',
+        u
+        'clutchOil': None,
+        u
+        'powerSteeringOil': None,
+        u
+        'gearBoxOil': {
+          u
+          'ident': u
+          '75W-80',
+          u
+          'label': u
+          '75W-80',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'gearBox',
+          u
+          'identifier': u
+          '75W-80',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 46
+        },
+        u
+        'fillingQuantityCoolantLiquid': 7.6,
+        u
+        'brakeOil': {
+          u
+          'ident': u
+          'DOT 4',
+          u
+          'label': u
+          'DOT 4',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'brake',
+          u
+          'identifier': u
+          'DOT4',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 36
+        },
+        u
+        'fillingQuantityEngineOil': 5,
+        u
+        'hydraulicOil': None,
+        u
+        'fillingQuantityClutchOil': 0,
+        u
+        'fuel': {
+          u
+          'ident': u
+          'Benzin',
+          u
+          'label': u
+          'Benzin',
+          u
+          'priority': 0,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'benzin',
+          u
+          'type': u
+          'fuel',
+          u
+          'id': 1
+        },
+        u
+        'fillingQuantityFuel': 0,
+        u
+        'coolandLiquid': {
+          u
+          'ident': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'label': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'priority': 10,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'G48/G11',
+          u
+          'type': u
+          'coolant',
+          u
+          'id': 71
+        },
+        u
+        'fillingQuantityHydraulicOil': 0,
+        u
+        'fillingQuantityBrakeOil': 1,
+        u
+        'engineOil': None
+      },
+      u
+      'services': [],
+      u
+      'segment': u
+      'segment-1',
+      u
+      'ident': u
+      '125i Aut. (160KW / 217PS) (Sport Line)',
+      u
+      'created': u
+      '2017-06-08 13:44:20',
+      u
+      'conditions': None,
+      u
+      'notes': None,
+      u
+      'model': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2016-07-16 20:53:26',
+        u
+        'ident': u
+        '1er (F20/F21)',
+        u
+        'productionEnd': None,
+        u
+        'created': u
+        '2015-07-10 22:52:30',
+        u
+        'productionStart': u
+        '2011-06-01',
+        u
+        'brand': {
+          u
+          'status': u
+          'active',
+          u
+          'updated': u
+          '2015-05-01 00:00:00',
+          u
+          'ident': u
+          'BMW',
+          u
+          'created': u
+          '2015-06-29 15:47:50',
+          u
+          'label': u
+          'BMW',
+          u
+          'priority': 10,
+          u
+          'WMI': [
+            u
+            'WBA',
+            u
+            'WBS',
+            u
+            'WBY',
+            u
+            '4US'
+          ],
+          u
+          'seoLinkLabel': u
+          'BMW',
+          u
+          'address': None,
+          u
+          'id': 13
+        },
+        u
+        'label': u
+        '1er',
+        u
+        'seoLinkLabel': u
+        '1er',
+        u
+        'additionalLabel': u
+        'F20/F21',
+        u
+        'type': u
+        'PKW',
+        u
+        'id': 2459
+      },
+      u
+      'productionStart': u
+      '2015-03-01'
+    },
+    {
+      u
+      'TSN': u
+      'BLP',
+      u
+      'engine': {
+        u
+        'cylinder': 4,
+        u
+        'ident': u
+        '160KW / 217PS',
+        u
+        'capacity': 1997,
+        u
+        'power': 160,
+        u
+        'created': u
+        '2015-07-13 10:04:14',
+        u
+        'sparkPlugs': None,
+        u
+        'emissionStandard': u
+        'EU6',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'DPF': False,
+        u
+        'gears': 8,
+        u
+        'DSG': False,
+        u
+        'gearBox': u
+        'automatic',
+        u
+        'identifier': None,
+        u
+        'id': 10132811,
+        u
+        'emissions': None
+      },
+      u
+      'VDS': None,
+      u
+      'id': 10132811,
+      u
+      'HSN': 5,
+      u
+      'label': u
+      '125i Aut.',
+      u
+      'type': u
+      'PKW',
+      u
+      'status': u
+      'active',
+      u
+      'updated': u
+      '2017-06-08 13:44:25',
+      u
+      'productionEnd': u
+      '2016-05-31',
+      u
+      'keys': [
+        {
+          u
+          'TSN': u
+          'BLP',
+          u
+          'approval': None,
+          u
+          'HSN': 5,
+          u
+          'id': 1269,
+          u
+          'stock': None
+        }
+      ],
+      u
+      'brand': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'ident': u
+        'BMW',
+        u
+        'created': u
+        '2015-06-29 15:47:50',
+        u
+        'label': u
+        'BMW',
+        u
+        'priority': 10,
+        u
+        'WMI': [
+          u
+          'WBA',
+          u
+          'WBS',
+          u
+          'WBY',
+          u
+          '4US'
+        ],
+        u
+        'seoLinkLabel': u
+        'BMW',
+        u
+        'address': None,
+        u
+        'id': 13
+      },
+      u
+      'variant': u
+      'Urban Line',
+      u
+      'seoLinkLabel': u
+      '125i-Aut',
+      u
+      'liquids': {
+        u
+        'fillingQuantityPowerSteeringOil': 0,
+        u
+        'updated': u
+        '2017-06-08 13:44:25',
+        u
+        'engineOilLongLife': {
+          u
+          'ident': u
+          '5W-30LL',
+          u
+          'label': u
+          '5W-30LL',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'engine',
+          u
+          'identifier': u
+          '5W-30LL',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 38
+        },
+        u
+        'fillingQuantityGearBox': 1.3,
+        u
+        'created': u
+        '2015-07-13 10:04:14',
+        u
+        'clutchOil': None,
+        u
+        'powerSteeringOil': None,
+        u
+        'gearBoxOil': {
+          u
+          'ident': u
+          '75W-80',
+          u
+          'label': u
+          '75W-80',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'gearBox',
+          u
+          'identifier': u
+          '75W-80',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 46
+        },
+        u
+        'fillingQuantityCoolantLiquid': 7.6,
+        u
+        'brakeOil': {
+          u
+          'ident': u
+          'DOT 4',
+          u
+          'label': u
+          'DOT 4',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'brake',
+          u
+          'identifier': u
+          'DOT4',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 36
+        },
+        u
+        'fillingQuantityEngineOil': 5,
+        u
+        'hydraulicOil': None,
+        u
+        'fillingQuantityClutchOil': 0,
+        u
+        'fuel': {
+          u
+          'ident': u
+          'Benzin',
+          u
+          'label': u
+          'Benzin',
+          u
+          'priority': 0,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'benzin',
+          u
+          'type': u
+          'fuel',
+          u
+          'id': 1
+        },
+        u
+        'fillingQuantityFuel': 0,
+        u
+        'coolandLiquid': {
+          u
+          'ident': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'label': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'priority': 10,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'G48/G11',
+          u
+          'type': u
+          'coolant',
+          u
+          'id': 71
+        },
+        u
+        'fillingQuantityHydraulicOil': 0,
+        u
+        'fillingQuantityBrakeOil': 1,
+        u
+        'engineOil': None
+      },
+      u
+      'services': [],
+      u
+      'segment': u
+      'segment-1',
+      u
+      'ident': u
+      '125i Aut. (160KW / 217PS) (Urban Line)',
+      u
+      'created': u
+      '2017-06-08 13:44:24',
+      u
+      'conditions': None,
+      u
+      'notes': None,
+      u
+      'model': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2016-07-16 20:53:26',
+        u
+        'ident': u
+        '1er (F20/F21)',
+        u
+        'productionEnd': None,
+        u
+        'created': u
+        '2015-07-10 22:52:30',
+        u
+        'productionStart': u
+        '2011-06-01',
+        u
+        'brand': {
+          u
+          'status': u
+          'active',
+          u
+          'updated': u
+          '2015-05-01 00:00:00',
+          u
+          'ident': u
+          'BMW',
+          u
+          'created': u
+          '2015-06-29 15:47:50',
+          u
+          'label': u
+          'BMW',
+          u
+          'priority': 10,
+          u
+          'WMI': [
+            u
+            'WBA',
+            u
+            'WBS',
+            u
+            'WBY',
+            u
+            '4US'
+          ],
+          u
+          'seoLinkLabel': u
+          'BMW',
+          u
+          'address': None,
+          u
+          'id': 13
+        },
+        u
+        'label': u
+        '1er',
+        u
+        'seoLinkLabel': u
+        '1er',
+        u
+        'additionalLabel': u
+        'F20/F21',
+        u
+        'type': u
+        'PKW',
+        u
+        'id': 2459
+      },
+      u
+      'productionStart': u
+      '2015-03-01'
+    },
+    {
+      u
+      'TSN': u
+      'BLP',
+      u
+      'engine': {
+        u
+        'cylinder': 4,
+        u
+        'ident': u
+        '160KW / 217PS',
+        u
+        'capacity': 1997,
+        u
+        'power': 160,
+        u
+        'created': u
+        '2015-07-13 10:04:10',
+        u
+        'sparkPlugs': None,
+        u
+        'emissionStandard': u
+        'EU6',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'DPF': False,
+        u
+        'gears': 8,
+        u
+        'DSG': False,
+        u
+        'gearBox': u
+        'automatic',
+        u
+        'identifier': None,
+        u
+        'id': 10133175,
+        u
+        'emissions': None
+      },
+      u
+      'VDS': None,
+      u
+      'id': 10133175,
+      u
+      'HSN': 5,
+      u
+      'label': u
+      '125i Sport-Aut.',
+      u
+      'type': u
+      'PKW',
+      u
+      'status': u
+      'active',
+      u
+      'updated': u
+      '2017-06-08 13:44:27',
+      u
+      'productionEnd': u
+      '2016-05-31',
+      u
+      'keys': [
+        {
+          u
+          'TSN': u
+          'BLP',
+          u
+          'approval': None,
+          u
+          'HSN': 5,
+          u
+          'id': 1269,
+          u
+          'stock': None
+        }
+      ],
+      u
+      'brand': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'ident': u
+        'BMW',
+        u
+        'created': u
+        '2015-06-29 15:47:50',
+        u
+        'label': u
+        'BMW',
+        u
+        'priority': 10,
+        u
+        'WMI': [
+          u
+          'WBA',
+          u
+          'WBS',
+          u
+          'WBY',
+          u
+          '4US'
+        ],
+        u
+        'seoLinkLabel': u
+        'BMW',
+        u
+        'address': None,
+        u
+        'id': 13
+      },
+      u
+      'variant': None,
+      u
+      'seoLinkLabel': u
+      '125i-Sport-Aut',
+      u
+      'liquids': {
+        u
+        'fillingQuantityPowerSteeringOil': 0,
+        u
+        'updated': u
+        '2017-06-08 13:44:27',
+        u
+        'engineOilLongLife': {
+          u
+          'ident': u
+          '5W-30LL',
+          u
+          'label': u
+          '5W-30LL',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'engine',
+          u
+          'identifier': u
+          '5W-30LL',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 38
+        },
+        u
+        'fillingQuantityGearBox': 1.3,
+        u
+        'created': u
+        '2015-07-13 10:04:10',
+        u
+        'clutchOil': None,
+        u
+        'powerSteeringOil': None,
+        u
+        'gearBoxOil': {
+          u
+          'ident': u
+          '75W-80',
+          u
+          'label': u
+          '75W-80',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'gearBox',
+          u
+          'identifier': u
+          '75W-80',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 46
+        },
+        u
+        'fillingQuantityCoolantLiquid': 7.6,
+        u
+        'brakeOil': {
+          u
+          'ident': u
+          'DOT 4',
+          u
+          'label': u
+          'DOT 4',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'brake',
+          u
+          'identifier': u
+          'DOT4',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 36
+        },
+        u
+        'fillingQuantityEngineOil': 5,
+        u
+        'hydraulicOil': None,
+        u
+        'fillingQuantityClutchOil': 0,
+        u
+        'fuel': {
+          u
+          'ident': u
+          'Benzin',
+          u
+          'label': u
+          'Benzin',
+          u
+          'priority': 0,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'benzin',
+          u
+          'type': u
+          'fuel',
+          u
+          'id': 1
+        },
+        u
+        'fillingQuantityFuel': 0,
+        u
+        'coolandLiquid': {
+          u
+          'ident': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'label': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'priority': 10,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'G48/G11',
+          u
+          'type': u
+          'coolant',
+          u
+          'id': 71
+        },
+        u
+        'fillingQuantityHydraulicOil': 0,
+        u
+        'fillingQuantityBrakeOil': 1,
+        u
+        'engineOil': None
+      },
+      u
+      'services': [],
+      u
+      'segment': u
+      'segment-1',
+      u
+      'ident': u
+      '125i Sport-Aut. (160KW / 217PS)',
+      u
+      'created': u
+      '2017-06-08 13:44:27',
+      u
+      'conditions': None,
+      u
+      'notes': None,
+      u
+      'model': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2016-07-16 20:53:26',
+        u
+        'ident': u
+        '1er (F20/F21)',
+        u
+        'productionEnd': None,
+        u
+        'created': u
+        '2015-07-10 22:52:30',
+        u
+        'productionStart': u
+        '2011-06-01',
+        u
+        'brand': {
+          u
+          'status': u
+          'active',
+          u
+          'updated': u
+          '2015-05-01 00:00:00',
+          u
+          'ident': u
+          'BMW',
+          u
+          'created': u
+          '2015-06-29 15:47:50',
+          u
+          'label': u
+          'BMW',
+          u
+          'priority': 10,
+          u
+          'WMI': [
+            u
+            'WBA',
+            u
+            'WBS',
+            u
+            'WBY',
+            u
+            '4US'
+          ],
+          u
+          'seoLinkLabel': u
+          'BMW',
+          u
+          'address': None,
+          u
+          'id': 13
+        },
+        u
+        'label': u
+        '1er',
+        u
+        'seoLinkLabel': u
+        '1er',
+        u
+        'additionalLabel': u
+        'F20/F21',
+        u
+        'type': u
+        'PKW',
+        u
+        'id': 2459
+      },
+      u
+      'productionStart': u
+      '2015-03-01'
+    },
+    {
+      u
+      'TSN': u
+      'BLP',
+      u
+      'engine': {
+        u
+        'cylinder': 4,
+        u
+        'ident': u
+        '160KW / 217PS',
+        u
+        'capacity': 1997,
+        u
+        'power': 160,
+        u
+        'created': u
+        '2015-07-13 10:04:11',
+        u
+        'sparkPlugs': None,
+        u
+        'emissionStandard': u
+        'EU6',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'DPF': False,
+        u
+        'gears': 8,
+        u
+        'DSG': False,
+        u
+        'gearBox': u
+        'automatic',
+        u
+        'identifier': None,
+        u
+        'id': 10132751,
+        u
+        'emissions': None
+      },
+      u
+      'VDS': None,
+      u
+      'id': 10132751,
+      u
+      'HSN': 5,
+      u
+      'label': u
+      '125i Sport-Aut.',
+      u
+      'type': u
+      'PKW',
+      u
+      'status': u
+      'active',
+      u
+      'updated': u
+      '2017-06-08 13:44:29',
+      u
+      'productionEnd': u
+      '2016-05-31',
+      u
+      'keys': [
+        {
+          u
+          'TSN': u
+          'BLP',
+          u
+          'approval': None,
+          u
+          'HSN': 5,
+          u
+          'id': 1269,
+          u
+          'stock': None
+        }
+      ],
+      u
+      'brand': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'ident': u
+        'BMW',
+        u
+        'created': u
+        '2015-06-29 15:47:50',
+        u
+        'label': u
+        'BMW',
+        u
+        'priority': 10,
+        u
+        'WMI': [
+          u
+          'WBA',
+          u
+          'WBS',
+          u
+          'WBY',
+          u
+          '4US'
+        ],
+        u
+        'seoLinkLabel': u
+        'BMW',
+        u
+        'address': None,
+        u
+        'id': 13
+      },
+      u
+      'variant': u
+      'Advantage',
+      u
+      'seoLinkLabel': u
+      '125i-Sport-Aut',
+      u
+      'liquids': {
+        u
+        'fillingQuantityPowerSteeringOil': 0,
+        u
+        'updated': u
+        '2017-06-08 13:44:29',
+        u
+        'engineOilLongLife': {
+          u
+          'ident': u
+          '5W-30LL',
+          u
+          'label': u
+          '5W-30LL',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'engine',
+          u
+          'identifier': u
+          '5W-30LL',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 38
+        },
+        u
+        'fillingQuantityGearBox': 1.3,
+        u
+        'created': u
+        '2015-07-13 10:04:11',
+        u
+        'clutchOil': None,
+        u
+        'powerSteeringOil': None,
+        u
+        'gearBoxOil': {
+          u
+          'ident': u
+          '75W-80',
+          u
+          'label': u
+          '75W-80',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'gearBox',
+          u
+          'identifier': u
+          '75W-80',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 46
+        },
+        u
+        'fillingQuantityCoolantLiquid': 7.6,
+        u
+        'brakeOil': {
+          u
+          'ident': u
+          'DOT 4',
+          u
+          'label': u
+          'DOT 4',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'brake',
+          u
+          'identifier': u
+          'DOT4',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 36
+        },
+        u
+        'fillingQuantityEngineOil': 5,
+        u
+        'hydraulicOil': None,
+        u
+        'fillingQuantityClutchOil': 0,
+        u
+        'fuel': {
+          u
+          'ident': u
+          'Benzin',
+          u
+          'label': u
+          'Benzin',
+          u
+          'priority': 0,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'benzin',
+          u
+          'type': u
+          'fuel',
+          u
+          'id': 1
+        },
+        u
+        'fillingQuantityFuel': 0,
+        u
+        'coolandLiquid': {
+          u
+          'ident': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'label': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'priority': 10,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'G48/G11',
+          u
+          'type': u
+          'coolant',
+          u
+          'id': 71
+        },
+        u
+        'fillingQuantityHydraulicOil': 0,
+        u
+        'fillingQuantityBrakeOil': 1,
+        u
+        'engineOil': None
+      },
+      u
+      'services': [],
+      u
+      'segment': u
+      'segment-1',
+      u
+      'ident': u
+      '125i Sport-Aut. (160KW / 217PS) (Advantage)',
+      u
+      'created': u
+      '2017-06-08 13:44:29',
+      u
+      'conditions': None,
+      u
+      'notes': None,
+      u
+      'model': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2016-07-16 20:53:26',
+        u
+        'ident': u
+        '1er (F20/F21)',
+        u
+        'productionEnd': None,
+        u
+        'created': u
+        '2015-07-10 22:52:30',
+        u
+        'productionStart': u
+        '2011-06-01',
+        u
+        'brand': {
+          u
+          'status': u
+          'active',
+          u
+          'updated': u
+          '2015-05-01 00:00:00',
+          u
+          'ident': u
+          'BMW',
+          u
+          'created': u
+          '2015-06-29 15:47:50',
+          u
+          'label': u
+          'BMW',
+          u
+          'priority': 10,
+          u
+          'WMI': [
+            u
+            'WBA',
+            u
+            'WBS',
+            u
+            'WBY',
+            u
+            '4US'
+          ],
+          u
+          'seoLinkLabel': u
+          'BMW',
+          u
+          'address': None,
+          u
+          'id': 13
+        },
+        u
+        'label': u
+        '1er',
+        u
+        'seoLinkLabel': u
+        '1er',
+        u
+        'additionalLabel': u
+        'F20/F21',
+        u
+        'type': u
+        'PKW',
+        u
+        'id': 2459
+      },
+      u
+      'productionStart': u
+      '2015-03-01'
+    },
+    {
+      u
+      'TSN': u
+      'BLX',
+      u
+      'engine': {
+        u
+        'cylinder': 4,
+        u
+        'ident': u
+        '160KW / 217PS',
+        u
+        'capacity': 1997,
+        u
+        'power': 160,
+        u
+        'created': u
+        '2015-07-13 10:03:33',
+        u
+        'sparkPlugs': None,
+        u
+        'emissionStandard': u
+        'EU6',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'DPF': False,
+        u
+        'gears': 8,
+        u
+        'DSG': False,
+        u
+        'gearBox': u
+        'automatic',
+        u
+        'identifier': None,
+        u
+        'id': 10132571,
+        u
+        'emissions': None
+      },
+      u
+      'VDS': None,
+      u
+      'id': 10132571,
+      u
+      'HSN': 5,
+      u
+      'label': u
+      '125i Sport-Aut.',
+      u
+      'type': u
+      'PKW',
+      u
+      'status': u
+      'active',
+      u
+      'updated': u
+      '2017-06-08 13:44:30',
+      u
+      'productionEnd': u
+      '2016-05-31',
+      u
+      'keys': [
+        {
+          u
+          'TSN': u
+          'BLX',
+          u
+          'approval': None,
+          u
+          'HSN': 5,
+          u
+          'id': 1454,
+          u
+          'stock': None
+        }
+      ],
+      u
+      'brand': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'ident': u
+        'BMW',
+        u
+        'created': u
+        '2015-06-29 15:47:50',
+        u
+        'label': u
+        'BMW',
+        u
+        'priority': 10,
+        u
+        'WMI': [
+          u
+          'WBA',
+          u
+          'WBS',
+          u
+          'WBY',
+          u
+          '4US'
+        ],
+        u
+        'seoLinkLabel': u
+        'BMW',
+        u
+        'address': None,
+        u
+        'id': 13
+      },
+      u
+      'variant': u
+      'M Sport',
+      u
+      'seoLinkLabel': u
+      '125i-Sport-Aut',
+      u
+      'liquids': {
+        u
+        'fillingQuantityPowerSteeringOil': 0,
+        u
+        'updated': u
+        '2017-06-08 13:44:30',
+        u
+        'engineOilLongLife': {
+          u
+          'ident': u
+          '5W-30LL',
+          u
+          'label': u
+          '5W-30LL',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'engine',
+          u
+          'identifier': u
+          '5W-30LL',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 38
+        },
+        u
+        'fillingQuantityGearBox': 1.3,
+        u
+        'created': u
+        '2015-07-13 10:03:33',
+        u
+        'clutchOil': None,
+        u
+        'powerSteeringOil': None,
+        u
+        'gearBoxOil': {
+          u
+          'ident': u
+          '75W-80',
+          u
+          'label': u
+          '75W-80',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'gearBox',
+          u
+          'identifier': u
+          '75W-80',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 46
+        },
+        u
+        'fillingQuantityCoolantLiquid': 7.6,
+        u
+        'brakeOil': {
+          u
+          'ident': u
+          'DOT 4',
+          u
+          'label': u
+          'DOT 4',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'brake',
+          u
+          'identifier': u
+          'DOT4',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 36
+        },
+        u
+        'fillingQuantityEngineOil': 5,
+        u
+        'hydraulicOil': None,
+        u
+        'fillingQuantityClutchOil': 0,
+        u
+        'fuel': {
+          u
+          'ident': u
+          'Benzin',
+          u
+          'label': u
+          'Benzin',
+          u
+          'priority': 0,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'benzin',
+          u
+          'type': u
+          'fuel',
+          u
+          'id': 1
+        },
+        u
+        'fillingQuantityFuel': 0,
+        u
+        'coolandLiquid': {
+          u
+          'ident': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'label': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'priority': 10,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'G48/G11',
+          u
+          'type': u
+          'coolant',
+          u
+          'id': 71
+        },
+        u
+        'fillingQuantityHydraulicOil': 0,
+        u
+        'fillingQuantityBrakeOil': 1,
+        u
+        'engineOil': None
+      },
+      u
+      'services': [],
+      u
+      'segment': u
+      'segment-1',
+      u
+      'ident': u
+      '125i Sport-Aut. (160KW / 217PS) (M Sport)',
+      u
+      'created': u
+      '2017-06-08 13:44:30',
+      u
+      'conditions': None,
+      u
+      'notes': None,
+      u
+      'model': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2016-07-16 20:53:26',
+        u
+        'ident': u
+        '1er (F20/F21)',
+        u
+        'productionEnd': None,
+        u
+        'created': u
+        '2015-07-10 22:52:30',
+        u
+        'productionStart': u
+        '2011-06-01',
+        u
+        'brand': {
+          u
+          'status': u
+          'active',
+          u
+          'updated': u
+          '2015-05-01 00:00:00',
+          u
+          'ident': u
+          'BMW',
+          u
+          'created': u
+          '2015-06-29 15:47:50',
+          u
+          'label': u
+          'BMW',
+          u
+          'priority': 10,
+          u
+          'WMI': [
+            u
+            'WBA',
+            u
+            'WBS',
+            u
+            'WBY',
+            u
+            '4US'
+          ],
+          u
+          'seoLinkLabel': u
+          'BMW',
+          u
+          'address': None,
+          u
+          'id': 13
+        },
+        u
+        'label': u
+        '1er',
+        u
+        'seoLinkLabel': u
+        '1er',
+        u
+        'additionalLabel': u
+        'F20/F21',
+        u
+        'type': u
+        'PKW',
+        u
+        'id': 2459
+      },
+      u
+      'productionStart': u
+      '2015-03-01'
+    },
+    {
+      u
+      'TSN': u
+      'BLP',
+      u
+      'engine': {
+        u
+        'cylinder': 4,
+        u
+        'ident': u
+        '160KW / 217PS',
+        u
+        'capacity': 1997,
+        u
+        'power': 160,
+        u
+        'created': u
+        '2015-07-13 10:04:13',
+        u
+        'sparkPlugs': None,
+        u
+        'emissionStandard': u
+        'EU6',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'DPF': False,
+        u
+        'gears': 8,
+        u
+        'DSG': False,
+        u
+        'gearBox': u
+        'automatic',
+        u
+        'identifier': None,
+        u
+        'id': 10132791,
+        u
+        'emissions': None
+      },
+      u
+      'VDS': None,
+      u
+      'id': 10132791,
+      u
+      'HSN': 5,
+      u
+      'label': u
+      '125i Sport-Aut.',
+      u
+      'type': u
+      'PKW',
+      u
+      'status': u
+      'active',
+      u
+      'updated': u
+      '2017-06-08 13:44:33',
+      u
+      'productionEnd': u
+      '2016-05-31',
+      u
+      'keys': [
+        {
+          u
+          'TSN': u
+          'BLP',
+          u
+          'approval': None,
+          u
+          'HSN': 5,
+          u
+          'id': 1269,
+          u
+          'stock': None
+        }
+      ],
+      u
+      'brand': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'ident': u
+        'BMW',
+        u
+        'created': u
+        '2015-06-29 15:47:50',
+        u
+        'label': u
+        'BMW',
+        u
+        'priority': 10,
+        u
+        'WMI': [
+          u
+          'WBA',
+          u
+          'WBS',
+          u
+          'WBY',
+          u
+          '4US'
+        ],
+        u
+        'seoLinkLabel': u
+        'BMW',
+        u
+        'address': None,
+        u
+        'id': 13
+      },
+      u
+      'variant': u
+      'Sport Line',
+      u
+      'seoLinkLabel': u
+      '125i-Sport-Aut',
+      u
+      'liquids': {
+        u
+        'fillingQuantityPowerSteeringOil': 0,
+        u
+        'updated': u
+        '2017-06-08 13:44:33',
+        u
+        'engineOilLongLife': {
+          u
+          'ident': u
+          '5W-30LL',
+          u
+          'label': u
+          '5W-30LL',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'engine',
+          u
+          'identifier': u
+          '5W-30LL',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 38
+        },
+        u
+        'fillingQuantityGearBox': 1.3,
+        u
+        'created': u
+        '2015-07-13 10:04:13',
+        u
+        'clutchOil': None,
+        u
+        'powerSteeringOil': None,
+        u
+        'gearBoxOil': {
+          u
+          'ident': u
+          '75W-80',
+          u
+          'label': u
+          '75W-80',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'gearBox',
+          u
+          'identifier': u
+          '75W-80',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 46
+        },
+        u
+        'fillingQuantityCoolantLiquid': 7.6,
+        u
+        'brakeOil': {
+          u
+          'ident': u
+          'DOT 4',
+          u
+          'label': u
+          'DOT 4',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'brake',
+          u
+          'identifier': u
+          'DOT4',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 36
+        },
+        u
+        'fillingQuantityEngineOil': 5,
+        u
+        'hydraulicOil': None,
+        u
+        'fillingQuantityClutchOil': 0,
+        u
+        'fuel': {
+          u
+          'ident': u
+          'Benzin',
+          u
+          'label': u
+          'Benzin',
+          u
+          'priority': 0,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'benzin',
+          u
+          'type': u
+          'fuel',
+          u
+          'id': 1
+        },
+        u
+        'fillingQuantityFuel': 0,
+        u
+        'coolandLiquid': {
+          u
+          'ident': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'label': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'priority': 10,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'G48/G11',
+          u
+          'type': u
+          'coolant',
+          u
+          'id': 71
+        },
+        u
+        'fillingQuantityHydraulicOil': 0,
+        u
+        'fillingQuantityBrakeOil': 1,
+        u
+        'engineOil': None
+      },
+      u
+      'services': [],
+      u
+      'segment': u
+      'segment-1',
+      u
+      'ident': u
+      '125i Sport-Aut. (160KW / 217PS) (Sport Line)',
+      u
+      'created': u
+      '2017-06-08 13:44:32',
+      u
+      'conditions': None,
+      u
+      'notes': None,
+      u
+      'model': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2016-07-16 20:53:26',
+        u
+        'ident': u
+        '1er (F20/F21)',
+        u
+        'productionEnd': None,
+        u
+        'created': u
+        '2015-07-10 22:52:30',
+        u
+        'productionStart': u
+        '2011-06-01',
+        u
+        'brand': {
+          u
+          'status': u
+          'active',
+          u
+          'updated': u
+          '2015-05-01 00:00:00',
+          u
+          'ident': u
+          'BMW',
+          u
+          'created': u
+          '2015-06-29 15:47:50',
+          u
+          'label': u
+          'BMW',
+          u
+          'priority': 10,
+          u
+          'WMI': [
+            u
+            'WBA',
+            u
+            'WBS',
+            u
+            'WBY',
+            u
+            '4US'
+          ],
+          u
+          'seoLinkLabel': u
+          'BMW',
+          u
+          'address': None,
+          u
+          'id': 13
+        },
+        u
+        'label': u
+        '1er',
+        u
+        'seoLinkLabel': u
+        '1er',
+        u
+        'additionalLabel': u
+        'F20/F21',
+        u
+        'type': u
+        'PKW',
+        u
+        'id': 2459
+      },
+      u
+      'productionStart': u
+      '2015-03-01'
+    },
+    {
+      u
+      'TSN': u
+      'BLP',
+      u
+      'engine': {
+        u
+        'cylinder': 4,
+        u
+        'ident': u
+        '160KW / 217PS',
+        u
+        'capacity': 1997,
+        u
+        'power': 160,
+        u
+        'created': u
+        '2015-07-13 10:04:14',
+        u
+        'sparkPlugs': None,
+        u
+        'emissionStandard': u
+        'EU6',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'DPF': False,
+        u
+        'gears': 8,
+        u
+        'DSG': False,
+        u
+        'gearBox': u
+        'automatic',
+        u
+        'identifier': None,
+        u
+        'id': 10132821,
+        u
+        'emissions': None
+      },
+      u
+      'VDS': None,
+      u
+      'id': 10132821,
+      u
+      'HSN': 5,
+      u
+      'label': u
+      '125i Sport-Aut.',
+      u
+      'type': u
+      'PKW',
+      u
+      'status': u
+      'active',
+      u
+      'updated': u
+      '2017-06-08 13:44:37',
+      u
+      'productionEnd': u
+      '2016-05-31',
+      u
+      'keys': [
+        {
+          u
+          'TSN': u
+          'BLP',
+          u
+          'approval': None,
+          u
+          'HSN': 5,
+          u
+          'id': 1269,
+          u
+          'stock': None
+        }
+      ],
+      u
+      'brand': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'ident': u
+        'BMW',
+        u
+        'created': u
+        '2015-06-29 15:47:50',
+        u
+        'label': u
+        'BMW',
+        u
+        'priority': 10,
+        u
+        'WMI': [
+          u
+          'WBA',
+          u
+          'WBS',
+          u
+          'WBY',
+          u
+          '4US'
+        ],
+        u
+        'seoLinkLabel': u
+        'BMW',
+        u
+        'address': None,
+        u
+        'id': 13
+      },
+      u
+      'variant': u
+      'Urban Line',
+      u
+      'seoLinkLabel': u
+      '125i-Sport-Aut',
+      u
+      'liquids': {
+        u
+        'fillingQuantityPowerSteeringOil': 0,
+        u
+        'updated': u
+        '2017-06-08 13:44:37',
+        u
+        'engineOilLongLife': {
+          u
+          'ident': u
+          '5W-30LL',
+          u
+          'label': u
+          '5W-30LL',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'engine',
+          u
+          'identifier': u
+          '5W-30LL',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 38
+        },
+        u
+        'fillingQuantityGearBox': 1.3,
+        u
+        'created': u
+        '2015-07-13 10:04:14',
+        u
+        'clutchOil': None,
+        u
+        'powerSteeringOil': None,
+        u
+        'gearBoxOil': {
+          u
+          'ident': u
+          '75W-80',
+          u
+          'label': u
+          '75W-80',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'gearBox',
+          u
+          'identifier': u
+          '75W-80',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 46
+        },
+        u
+        'fillingQuantityCoolantLiquid': 7.6,
+        u
+        'brakeOil': {
+          u
+          'ident': u
+          'DOT 4',
+          u
+          'label': u
+          'DOT 4',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'brake',
+          u
+          'identifier': u
+          'DOT4',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 36
+        },
+        u
+        'fillingQuantityEngineOil': 5,
+        u
+        'hydraulicOil': None,
+        u
+        'fillingQuantityClutchOil': 0,
+        u
+        'fuel': {
+          u
+          'ident': u
+          'Benzin',
+          u
+          'label': u
+          'Benzin',
+          u
+          'priority': 0,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'benzin',
+          u
+          'type': u
+          'fuel',
+          u
+          'id': 1
+        },
+        u
+        'fillingQuantityFuel': 0,
+        u
+        'coolandLiquid': {
+          u
+          'ident': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'label': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'priority': 10,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'G48/G11',
+          u
+          'type': u
+          'coolant',
+          u
+          'id': 71
+        },
+        u
+        'fillingQuantityHydraulicOil': 0,
+        u
+        'fillingQuantityBrakeOil': 1,
+        u
+        'engineOil': None
+      },
+      u
+      'services': [],
+      u
+      'segment': u
+      'segment-1',
+      u
+      'ident': u
+      '125i Sport-Aut. (160KW / 217PS) (Urban Line)',
+      u
+      'created': u
+      '2017-06-08 13:44:36',
+      u
+      'conditions': None,
+      u
+      'notes': None,
+      u
+      'model': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2016-07-16 20:53:26',
+        u
+        'ident': u
+        '1er (F20/F21)',
+        u
+        'productionEnd': None,
+        u
+        'created': u
+        '2015-07-10 22:52:30',
+        u
+        'productionStart': u
+        '2011-06-01',
+        u
+        'brand': {
+          u
+          'status': u
+          'active',
+          u
+          'updated': u
+          '2015-05-01 00:00:00',
+          u
+          'ident': u
+          'BMW',
+          u
+          'created': u
+          '2015-06-29 15:47:50',
+          u
+          'label': u
+          'BMW',
+          u
+          'priority': 10,
+          u
+          'WMI': [
+            u
+            'WBA',
+            u
+            'WBS',
+            u
+            'WBY',
+            u
+            '4US'
+          ],
+          u
+          'seoLinkLabel': u
+          'BMW',
+          u
+          'address': None,
+          u
+          'id': 13
+        },
+        u
+        'label': u
+        '1er',
+        u
+        'seoLinkLabel': u
+        '1er',
+        u
+        'additionalLabel': u
+        'F20/F21',
+        u
+        'type': u
+        'PKW',
+        u
+        'id': 2459
+      },
+      u
+      'productionStart': u
+      '2015-03-01'
+    },
+    {
+      u
+      'TSN': u
+      'CAN',
+      u
+      'engine': {
+        u
+        'cylinder': 6,
+        u
+        'ident': u
+        '240KW / 326PS',
+        u
+        'capacity': 2979,
+        u
+        'power': 240,
+        u
+        'created': u
+        '2015-07-13 10:03:34',
+        u
+        'sparkPlugs': None,
+        u
+        'emissionStandard': u
+        'EU6',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'DPF': False,
+        u
+        'gears': 8,
+        u
+        'DSG': False,
+        u
+        'gearBox': u
+        'automatic',
+        u
+        'identifier': None,
+        u
+        'id': 10132845,
+        u
+        'emissions': None
+      },
+      u
+      'VDS': None,
+      u
+      'id': 10132845,
+      u
+      'HSN': 5,
+      u
+      'label': u
+      'M135i Sport-Aut.',
+      u
+      'type': u
+      'PKW',
+      u
+      'status': u
+      'active',
+      u
+      'updated': u
+      '2017-06-08 13:44:41',
+      u
+      'productionEnd': u
+      '2016-05-31',
+      u
+      'keys': [
+        {
+          u
+          'TSN': u
+          'CAN',
+          u
+          'approval': None,
+          u
+          'HSN': 5,
+          u
+          'id': 19649,
+          u
+          'stock': None
+        }
+      ],
+      u
+      'brand': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2015-05-01 00:00:00',
+        u
+        'ident': u
+        'BMW',
+        u
+        'created': u
+        '2015-06-29 15:47:50',
+        u
+        'label': u
+        'BMW',
+        u
+        'priority': 10,
+        u
+        'WMI': [
+          u
+          'WBA',
+          u
+          'WBS',
+          u
+          'WBY',
+          u
+          '4US'
+        ],
+        u
+        'seoLinkLabel': u
+        'BMW',
+        u
+        'address': None,
+        u
+        'id': 13
+      },
+      u
+      'variant': None,
+      u
+      'seoLinkLabel': u
+      'M135i-Sport-Aut',
+      u
+      'liquids': {
+        u
+        'fillingQuantityPowerSteeringOil': 0,
+        u
+        'updated': u
+        '2017-06-08 13:44:41',
+        u
+        'engineOilLongLife': {
+          u
+          'ident': u
+          '5W-30LL',
+          u
+          'label': u
+          '5W-30LL',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'engine',
+          u
+          'identifier': u
+          '5W-30LL',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 38
+        },
+        u
+        'fillingQuantityGearBox': 0,
+        u
+        'created': u
+        '2015-07-13 10:03:34',
+        u
+        'clutchOil': None,
+        u
+        'powerSteeringOil': None,
+        u
+        'gearBoxOil': None,
+        u
+        'fillingQuantityCoolantLiquid': 7.2,
+        u
+        'brakeOil': {
+          u
+          'ident': u
+          'DOT 4',
+          u
+          'label': u
+          'DOT 4',
+          u
+          'priority': 10,
+          u
+          'subType': u
+          'brake',
+          u
+          'identifier': u
+          'DOT4',
+          u
+          'type': u
+          'oil',
+          u
+          'id': 36
+        },
+        u
+        'fillingQuantityEngineOil': 6.5,
+        u
+        'hydraulicOil': None,
+        u
+        'fillingQuantityClutchOil': 0,
+        u
+        'fuel': {
+          u
+          'ident': u
+          'Benzin',
+          u
+          'label': u
+          'Benzin',
+          u
+          'priority': 0,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'benzin',
+          u
+          'type': u
+          'fuel',
+          u
+          'id': 1
+        },
+        u
+        'fillingQuantityFuel': 0,
+        u
+        'coolandLiquid': {
+          u
+          'ident': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'label': u
+          'G48 (BASF) / G11 (VW)',
+          u
+          'priority': 10,
+          u
+          'subType': None,
+          u
+          'identifier': u
+          'G48/G11',
+          u
+          'type': u
+          'coolant',
+          u
+          'id': 71
+        },
+        u
+        'fillingQuantityHydraulicOil': 0,
+        u
+        'fillingQuantityBrakeOil': 1,
+        u
+        'engineOil': None
+      },
+      u
+      'services': [],
+      u
+      'segment': u
+      'segment-1',
+      u
+      'ident': u
+      'M135i Sport-Aut. (240KW / 326PS)',
+      u
+      'created': u
+      '2017-06-08 13:44:40',
+      u
+      'conditions': None,
+      u
+      'notes': None,
+      u
+      'model': {
+        u
+        'status': u
+        'active',
+        u
+        'updated': u
+        '2016-07-16 20:53:26',
+        u
+        'ident': u
+        '1er (F20/F21)',
+        u
+        'productionEnd': None,
+        u
+        'created': u
+        '2015-07-10 22:52:30',
+        u
+        'productionStart': u
+        '2011-06-01',
+        u
+        'brand': {
+          u
+          'status': u
+          'active',
+          u
+          'updated': u
+          '2015-05-01 00:00:00',
+          u
+          'ident': u
+          'BMW',
+          u
+          'created': u
+          '2015-06-29 15:47:50',
+          u
+          'label': u
+          'BMW',
+          u
+          'priority': 10,
+          u
+          'WMI': [
+            u
+            'WBA',
+            u
+            'WBS',
+            u
+            'WBY',
+            u
+            '4US'
+          ],
+          u
+          'seoLinkLabel': u
+          'BMW',
+          u
+          'address': None,
+          u
+          'id': 13
+        },
+        u
+        'label': u
+        '1er',
+        u
+        'seoLinkLabel': u
+        '1er',
+        u
+        'additionalLabel': u
+        'F20/F21',
+        u
+        'type': u
+        'PKW',
+        u
+        'id': 2459
+      },
+      u
+      'productionStart': u
+      '2015-03-01'
+    }
+  ],
+  u
+  'model': {
+    u
+    'status': u
+    'active',
+    u
+    'updated': u
+    '2016-07-16 20:53:26',
+    u
+    'ident': u
+    '1er (F20/F21)',
+    u
+    'productionEnd': None,
+    u
+    'created': u
+    '2015-07-10 22:52:30',
+    u
+    'productionStart': u
+    '2011-06-01',
+    u
+    'brand': {
+      u
+      'status': u
+      'active',
+      u
+      'updated': u
+      '2015-05-01 00:00:00',
+      u
+      'ident': u
+      'BMW',
+      u
+      'created': u
+      '2015-06-29 15:47:50',
+      u
+      'label': u
+      'BMW',
+      u
+      'priority': 10,
+      u
+      'WMI': [
+        u
+        'WBA',
+        u
+        'WBS',
+        u
+        'WBY',
+        u
+        '4US'
+      ],
+      u
+      'seoLinkLabel': u
+      'BMW',
+      u
+      'address': None,
+      u
+      'id': 13
+    },
+    u
+    'label': u
+    '1er',
+    u
+    'seoLinkLabel': u
+    '1er',
+    u
+    'additionalLabel': u
+    'F20/F21',
+    u
+    'type': u
+    'PKW',
+    u
+    'id': 2459
+  },
+  u
+  'total': 17
+}
